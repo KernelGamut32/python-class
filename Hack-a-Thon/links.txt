@@ -1,0 +1,3 @@
+https://angular.io/guide/cheatsheet
+https://malcoded.com/posts/angular-fundamentals-cli/
+https://betterprogramming.pub/setup-a-proxy-for-api-calls-for-your-angular-cli-app-6566c02a8c4d
